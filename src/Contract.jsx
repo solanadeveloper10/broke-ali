@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 const Contract = () => {
   const [isCopied, setIsCopied] = useState(false);
-  const textToCopy = "ozvFrue4TRwVamwBy2eTdmPEsZ4j6oMoGkiE4qXbrok";
+  const textToCopy = "u3YZBTjSuChUSnLPnHsuHVGXnEp6mZt2HXXwhRXbrok";
 
   const handleCopy = () => {
     navigator.clipboard.writeText(textToCopy)
@@ -55,7 +55,7 @@ const Contract = () => {
       }}
     >
       <p>
-        CA: ozvFrue4TRwVamwBy2eTdmPEsZ4j6oMoGkiE4qXbrok
+        CA: u3YZBTjSuChUSnLPnHsuHVGXnEp6mZt2HXXwhRXbrok
       </p>
       {isCopied ? <div className='copied-text'>Copied!</div> : null}
     </motion.div>

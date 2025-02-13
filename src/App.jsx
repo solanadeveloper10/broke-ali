@@ -34,13 +34,13 @@ function App() {
         <a href="https://t.me/BrokeAliCoin" target='_blank' className='social-link'>
           <img src="/icons/tg.png" alt="Telegram icon." className='social-link-image' />
         </a>
-        <a href="https://www.dextools.io/app/en/solana/ozvFrue4TRwVamwBy2eTdmPEsZ4j6oMoGkiE4qXbrok" target='_blank' className='social-link'>
+        <a href="https://www.dextools.io/app/en/solana/u3YZBTjSuChUSnLPnHsuHVGXnEp6mZt2HXXwhRXbrok" target='_blank' className='social-link'>
           <img src="/icons/dextools.png" alt="Dextools icon." className='social-link-image' />
         </a>
-        <a href="https://dexscreener.com/solana/ozvFrue4TRwVamwBy2eTdmPEsZ4j6oMoGkiE4qXbrok" target='_blank' className='social-link'>
+        <a href="https://dexscreener.com/solana/u3YZBTjSuChUSnLPnHsuHVGXnEp6mZt2HXXwhRXbrok" target='_blank' className='social-link'>
           <img src="/icons/dexscreener.png" alt="Dexscreener icon." className='social-link-image' />
         </a>
-        <a href="https://raydium.io/swap/?inputMint=sol&outputMint=ozvFrue4TRwVamwBy2eTdmPEsZ4j6oMoGkiE4qXbrok" target='_blank' className='social-link'>
+        <a href="https://raydium.io/swap/?inputMint=sol&outputMint=u3YZBTjSuChUSnLPnHsuHVGXnEp6mZt2HXXwhRXbrok" target='_blank' className='social-link'>
           <img src="/icons/raydium.png" alt="Raydium icon." className='social-link-image' />
         </a>
       </header>
