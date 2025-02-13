@@ -67,7 +67,7 @@ const RocketAnimation = () => {
   useEffect(() => {
     const interval = setInterval(() => {
       // Limit to 25 rockets at a time
-      if (rockets.length >= 25) return;
+      if (rockets.length >= 12) return;
 
       const size = Math.random() * (300 - 100) + 100; // Random size between 100px and 300px
       const speed = Math.random() * 2 + 3; // Random speed between 3 and 5
