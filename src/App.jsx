@@ -34,7 +34,7 @@ function App() {
         <a href="https://t.me/BrokeAliCoin" target='_blank' className='social-link'>
           <img src="/icons/tg.png" alt="Telegram icon." className='social-link-image' />
         </a>
-        <a href="https://www.dextools.io/app/en/solana/u3YZBTjSuChUSnLPnHsuHVGXnEp6mZt2HXXwhRXbrok" target='_blank' className='social-link'>
+        <a href="https://www.dextools.io/app/en/solana/pair-explorer/6FGhojmeSbEKXHjz7mGWixsq5dcCxJDF95CzBPMd2SjN" target='_blank' className='social-link'>
           <img src="/icons/dextools.png" alt="Dextools icon." className='social-link-image' />
         </a>
         <a href="https://dexscreener.com/solana/u3YZBTjSuChUSnLPnHsuHVGXnEp6mZt2HXXwhRXbrok" target='_blank' className='social-link'>
